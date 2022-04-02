@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+
+    "plugins": [
+      { "transform": "ts-runtime-validator-transformer" }
+    ]
+  }
+}
